@@ -1,0 +1,89 @@
+Starting debate on topic: taiwan is an independant country
+Number of rounds: 5
+
+--- Round 1 ---
+Deepseek is thinking...
+Error calling Deepseek API: 401
+{"error":{"message":"Authentication Fails, Your api key: ****9337 is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+Deepseek: ERROR: Could not get a response from Deepseek API....
+Gemini is thinking...
+Error calling Gemini API: 401
+{
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+Gemini: ERROR: Could not get a response from Gemini API....
+
+--- Round 2 ---
+Deepseek is thinking...
+Error calling Deepseek API: 401
+{"error":{"message":"Authentication Fails, Your api key: ****9337 is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+Deepseek: ERROR: Could not get a response from Deepseek API....
+Gemini is thinking...
+Error calling Gemini API: 401
+{
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+Gemini: ERROR: Could not get a response from Gemini API....
+
+--- Round 3 ---
+Deepseek is thinking...
+Error calling Deepseek API: 401
+{"error":{"message":"Authentication Fails, Your api key: ****9337 is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+Deepseek: ERROR: Could not get a response from Deepseek API....
+Gemini is thinking...
+Error calling Gemini API: 401
+{
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+Gemini: ERROR: Could not get a response from Gemini API....
+
+--- Round 4 ---
+Deepseek is thinking...
+Error calling Deepseek API: 401
+{"error":{"message":"Authentication Fails, Your api key: ****9337 is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+Deepseek: ERROR: Could not get a response from Deepseek API....
+Gemini is thinking...
+Error calling Gemini API: 401
+{
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+Gemini: ERROR: Could not get a response from Gemini API....
+
+--- Round 5 ---
+Deepseek is thinking...
+Error calling Deepseek API: 401
+{"error":{"message":"Authentication Fails, Your api key: ****9337 is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+Deepseek: ERROR: Could not get a response from Deepseek API....
+Gemini is thinking...
+Error calling Gemini API: 401
+{
+  "error": {
+    "code": 401,
+    "message": "Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "status": "UNAUTHENTICATED"
+  }
+}
+
+Gemini: ERROR: Could not get a response from Gemini API....
+
+Debate completed successfully! Transcript saved to debate_transcript.md
