@@ -282,10 +282,20 @@ class AIDebateFramework:
             }
             if deepseek_response.startswith("ERROR:"):
                 print(deepseek_response)
+                self.transcript.append({"speaker": "Deepseek", "content": deepseek_response})
+                with open(self.output_file, "a") as f:
+                    f.write(f"### Round {round_num} - Deepseek\n\n")
+                    f.write(f"{deepseek_response}\n\n")
+                    f.write("---\n\n")
                 return
             # Check if Deepseek's response is valid
             if not deepseek_response or len(deepseek_response) < 10:
                 print("ERROR: Deepseek's response is too short or invalid.")
+                self.transcript.append({"speaker": "Deepseek", "content": "ERROR: Invalid response."})
+                with open(self.output_file, "a") as f:
+                    f.write(f"### Round {round_num} - Deepseek\n\n")
+                    f.write("ERROR: Invalid response.\n\n")
+                    f.write("---\n\n")
                 return
             messages.append(deepseek_message)
             
