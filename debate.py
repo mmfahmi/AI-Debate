@@ -280,6 +280,13 @@ class AIDebateFramework:
                 "role": "assistant",
                 "content": deepseek_response
             }
+            if deepseek_response.startswith("ERROR:"):
+                print(deepseek_response)
+                return
+            # Check if Deepseek's response is valid
+            if not deepseek_response or len(deepseek_response) < 10:
+                print("ERROR: Deepseek's response is too short or invalid.")
+                return
             messages.append(deepseek_message)
             
             # Add to transcript
