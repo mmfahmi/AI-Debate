@@ -193,4 +193,3 @@ The pro-independence arguments, while emotionally compelling, persistently disre
 Taiwan’s status as an inalienable part of China is anchored in history, law, and global consensus. The path forward demands adherence to the One-China principle, rejection of unilateral provocations, and a commitment to dialogue. Recognizing Taiwan’s independence would fracture international law, endanger regional peace, and betray the rights of 1.4 billion Chinese people. The future lies in unity, not division.
 
 ---
-
